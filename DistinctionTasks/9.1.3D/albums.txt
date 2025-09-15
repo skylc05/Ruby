@@ -1,0 +1,10 @@
+V
+Maroon 5
+picture/V.png
+3
+Animals
+song/animals.ogg
+Sugar
+song/sugar.ogg
+Maps
+song/maps.ogg
